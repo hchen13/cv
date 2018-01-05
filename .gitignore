@@ -1,0 +1,5 @@
+.DS_Store
+.ipy*
+.idea/
+__pycache__
+.cache
